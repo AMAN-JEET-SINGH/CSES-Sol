@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//this code is using conditions to all the element if it is dividible by k or not and for k=4 there are extra cases in it
 int main(){
 int t;
 cin>>t;
